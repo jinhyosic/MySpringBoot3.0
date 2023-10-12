@@ -31,6 +31,7 @@ public class MyRunner implements ApplicationRunner {
         System.out.println("mybootfullname"+fullName);
         System.out.println("vm Argument foo: " + args.containsOption("foo"));
         System.out.println("vProgram Argument bar: " + args.containsOption("bar"));
+        System.out.println("git test!!");
 
 
     }
